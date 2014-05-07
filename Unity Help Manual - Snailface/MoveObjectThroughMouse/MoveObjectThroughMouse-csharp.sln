@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{9D815127-2FF6-D2E5-A03F-04AB986DD0BB}") = "ReinstateObjectToOriginalLocation", "Assembly-CSharp.csproj", "{680EFF7F-04AB-3C24-165D-AD144992FE16}"
+Project("{DC55E38B-CC52-D693-4DA2-9F9A3796E934}") = "MoveObjectThroughMouse", "Assembly-CSharp-vs.csproj", "{DEE913E4-B7C0-1133-1B8C-0F6D944F183F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{680EFF7F-04AB-3C24-165D-AD144992FE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{680EFF7F-04AB-3C24-165D-AD144992FE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{680EFF7F-04AB-3C24-165D-AD144992FE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{680EFF7F-04AB-3C24-165D-AD144992FE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE913E4-B7C0-1133-1B8C-0F6D944F183F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE913E4-B7C0-1133-1B8C-0F6D944F183F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE913E4-B7C0-1133-1B8C-0F6D944F183F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE913E4-B7C0-1133-1B8C-0F6D944F183F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

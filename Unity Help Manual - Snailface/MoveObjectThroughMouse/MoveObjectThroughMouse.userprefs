@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cusrs.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NewBehaviourScript.cs">
     <Files>
-      <File FileName="Assets/Reinstate.cs" Line="22" Column="33" />
-      <File FileName="Assets/Cusrs.cs" Line="19" Column="33" />
+      <File FileName="Assets/NewBehaviourScript.cs" Line="14" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
