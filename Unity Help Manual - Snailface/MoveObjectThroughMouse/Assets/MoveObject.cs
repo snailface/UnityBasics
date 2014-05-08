@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MoveObject : MonoBehaviour {
-
+/*Add this script to the Gameobject that you hope to use as the cursor*/
+public class MoveObject: MonoBehaviour {
+	
 	public int Distance = 5;
 	// Use this for initialization
 	void Start () {
